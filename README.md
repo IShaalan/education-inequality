@@ -2,15 +2,13 @@
 
 ## Motivation and Purpose
 
-Education is a key enabler for the future and prosperity of societies.. It is not only one of the main SDG but also goals such as no poverty, no hunger, gender equality, industry and innovation are all fueled by a well-educated population. These are goals that were laid out by the countries of the united nations to ensure a sustainable and bright future for all. In this sense there exists a common understanding of how important the education is … for our future and prosperity.. Yet today
-
-Most recently the Nobel prize in economic sciences was awarded to 2 scientists for establishing a causal relationship between education earnings.. We believe that education has a far more reaching hand, and, In our analysis, we attempt to establish the correlation between the indicators of quality of education and the indicators of prosperity within the society. According to the global education monitory report team in the UNESCO*, there’s a 12% decline in AID in education since COVID, the purpose of the analysis is to encourage policy makers to reverse back the change in the investment in education.
+Education is a key enabler for the future and prosperity of societies. It is not only one of the main SDG but also the vast majority of the other SDG goals such as no poverty, no hunger, gender equality, industry and innovation can be tied back and fueled by a well-educated population. The SDG goals are goals defined by the countries of the united nations to ensure a sustainable and bright future for humanity. In that sense, there is a common understanding of how important education is for our future and prosperity, yet today
 
 ![alt text](imgs/education_inequality.png)
 
-The project seeks to establish the relationship between education quality and the socioeconomic indicators in an effort to encourage policy makers to increase the budget expenditure on education.
+In 2021, Most recently the Nobel prize in economic sciences was awarded to 3 scientists for establishing a causal relationship between education and earnings. We believe that education has a far more reaching hand, and, in our analysis, we attempt to establish the correlation between the indicators of quality of education and the indicators of prosperity within the society.
 
-Specifically, we are interested in answering the following questions:
+Specifically, we are interested in exploring the following questions:
 
 Q1. Does the increase in the quality of education improve social and economical welfare of people (HDI Index)? <br/>
 Q2. Does the education expenditure as a % of the GDP correlate with increase in quality of education? <br/>
