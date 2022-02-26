@@ -1,4 +1,4 @@
-# Education Quality – a Socioeconomic Indicator?
+# Education Quality; A Socioeconomic Indicator?
 
 ## Motivation and Purpose
 
