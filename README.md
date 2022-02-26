@@ -146,11 +146,11 @@ However, while some might think that increasing the budget that the country puts
 
 The broader point that we discoverd during our analysis is that the economic divide in the world continues to feed the vicious cycle of inequality. The rich, developed and high income countries continue to reap benefits of their investments and get better returns, while the rest of the income groups have the odds stacked against them.
 
-## Contributes
+## Contributors
 
-Syed Arsalan Raza
-Christine David
-Parul Metha
+- Syed Arsalan Raza
+- Christine David
+- Parul Metha
 
 ## Reproduction Steps
 
